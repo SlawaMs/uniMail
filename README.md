@@ -1,2 +1,2 @@
 # uniMail
-Simple portable cloud-based email client.
+Python. The simple portable cloud-based e-mail client.
